@@ -1,0 +1,3003 @@
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 3
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:  DEADEND, winner:ai 2
+INFO:root:WINNER: ai 2
+INFO:root:WINNER: ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:  DEADEND, winner:ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 2
+INFO:root:  DEADEND, winner:ai 3
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
+INFO:root:WINNER: ai 1
